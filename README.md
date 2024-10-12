@@ -21,5 +21,6 @@
 
  <img src="pic/02 wechatgroup.jpg" width="200"/>
 
- <b><font size ='2'>扫码关注我的公众号</font></b>
+ <p align="center"><font size ='2'>扫码关注我的公众号</font></p>
+
 </p>
